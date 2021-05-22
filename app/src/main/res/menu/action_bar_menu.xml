@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/add_item"
+            android:icon="@mipmap/add"
+            android:title="@string/agregar"
+            app:showAsAction="ifRoom" />
+
+        <item
+            android:id="@+id/add_img"
+            android:icon="@mipmap/foto"
+            android:title="@string/icn_add_img"
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/exit"
+            android:icon="@mipmap/logout"
+            android:title="@string/icn_exit"
+            app:showAsAction="always" />
+</menu>

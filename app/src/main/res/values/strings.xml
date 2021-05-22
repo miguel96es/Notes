@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="Iniciar">Iniciar Sesión</string>
+    <string name="Pregunta">¿Todavía no tienes cuenta? </string>
+    <string name="Registrate">Registrate</string>
+    <string name="Desc_logo">Logo de la aplicacion Notes</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Pregunta2">¿Ya tienes una cuenta? </string>
+    <string name="IniciaSesion">Inicia Sesión</string>
+    <string name="Desc_user">Logo de usuario para registrarse</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="Contraseña1">Contraseña</string>
+    <string name="Contraseña2">Repita contraseña</string>
+    <string name="AppActivity">Esta es la App Activity</string>
+    <string name="agregar">Add nota</string>
+    <string name="icn_add_img">Icono add imagen</string>
+    <string name="icn_exit">Icono salir</string>
+
+</resources>
